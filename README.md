@@ -1,2 +1,2 @@
 # snowflake_azure_pipe
-An automated ETL pipeline from azure to snowflake
+This project aims to build a data pipeline that efficiently moves and transforms raw data stored in Azure Blob Storage into Snowflake for insightful querying and visualization. The pipeline will be automated and scheduled using Apache Airflow, with data testing and transformation handled by DBT. The entire process will be documented and version-controlled using GitHub, ensuring best practices for security and collaboration.
